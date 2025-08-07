@@ -1,0 +1,87 @@
+html,
+body {
+  background-color: hsl(0, 0%, 8%);
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-container {
+  background-color: hsl(0, 0%, 12%);
+  width: 370px;
+  height: 580px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.card-head {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+img {
+  margin-bottom: 20px;
+  width: 80px;
+  border-radius: 100px;
+}
+
+h2 {
+  margin: 5px;
+  font-family: "Inter", sans-serif;
+  color: white;
+  font-weight: 400;
+}
+
+.descrip {
+  margin-bottom: 15px;
+  font-size: 13px;
+  color: white;
+  font-family: "Inter", sans-serif;
+}
+
+.ubic {
+  color: hsl(75, 94%, 57%);
+  margin-bottom: 17px;
+  font-size: 13px;
+  font-weight: 600;
+  font-family: "Inter", sans-serif;
+}
+
+.card-buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.btn {
+  width: 300px;
+  padding: 13px;
+  margin-top: 14px;
+  background-color: hsl(0, 0%, 20%);
+  color: white;
+  border-radius: 10px;
+  border: none;
+  transition: 0.3s;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+}
+
+.btn:hover {
+  background-color: hsl(75, 94%, 57%);
+  color: black;
+  cursor: pointer;
+}
+
+.attribution {
+  color: white;
+  margin-top: 60px;
+}
