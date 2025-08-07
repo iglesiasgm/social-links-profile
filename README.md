@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/social-links-profile-using-only-html-and-css-3pCLJ6IuJk
+- Live Site URL: https://social-links-profile-frme.netlify.app/
 
 ## My process
 
@@ -27,6 +27,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - https://gabrieliglesias.netlify.app/
+- Frontend Mentor - [@iglesiasgm] https://www.frontendmentor.io/profile/iglesiasgm
+- LinkedIn - [Gabriel Iglesias] https://www.linkedin.com/in/gabriel-mariano-iglesias-834767239/?trk=opento_sprofile_details
+- Github - [@iglesiasgm] https://github.com/iglesiasgm
